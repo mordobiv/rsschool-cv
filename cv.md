@@ -1,7 +1,7 @@
 ## Name:
 
 ### Dzmitry Aniskovich 
-![me](./ava.jpeg)
+![me](./img/ava.jpeg)
 
 ## Contacts:
 
