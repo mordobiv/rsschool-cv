@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mordobiv.github.io/rsschool-cv/cv
