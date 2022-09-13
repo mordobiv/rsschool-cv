@@ -3,9 +3,10 @@
 ![me](./ava.jpeg)
 
 ## Contacts:
-### tg: mordobiv
-### linkedin: dmitry-aniskovich
-### e-mail: mordobiv@gmail.com
+* tg: mordobiv
+* linkedin: dmitry-aniskovich
+* e-mail: mordobiv@gmail.com
+* discord: Dima (@mordobiv)
 
 ## Info:
 ###
@@ -14,7 +15,11 @@
 ###
 
 ## Code example:
-###
+```
+function multiply(a, b){
+  return a * b
+}
+```
 
 ## Working experience:
 ### 
