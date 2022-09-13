@@ -1,5 +1,6 @@
 ## Name:
-### Dzmitry Aniskovich
+### Dzmitry Aniskovich 
+![me](./ava.jpeg)
 
 ## Contacts:
 ### tg: mordobiv
